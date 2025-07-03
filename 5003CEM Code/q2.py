@@ -1,8 +1,3 @@
-"""
-Social Media Graph Implementation
-This program implements a directed graph data structure for a simplified social media app.
-"""
-
 
 class Graph:
     """
